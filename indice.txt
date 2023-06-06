@@ -1,0 +1,3 @@
+Capitulo 1: introduccion a git
+Capitulo 2: git los tres estados
+Capitulo 3: repositorios remotos 
